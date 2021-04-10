@@ -7,6 +7,6 @@ Folder consist of pretrained models of different countries
 ## Results_Images
 consist of results of the different countries
 ## Presentation
-Presentation pdf file
+Presentation of the project
 ## Seminar paper
-Term Paper 
+Term Paper of the project
